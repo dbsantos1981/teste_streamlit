@@ -1,6 +1,8 @@
 import streamlit as st
-from spleeter.separator import Separator
+import spleeter as sp
+
+# from spleeter.separator import Separator
 
 st.title("Hello World")
-separator_lib = Separator("spleeter:2stems", multiprocess=False)
+separator_lib = sp.separator.Separator("spleeter:2stems", multiprocess=False)
 st.balloons()
