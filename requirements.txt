@@ -1,4 +1,4 @@
 streamlit
 spleeter
 typer
-click
+click==7.0
