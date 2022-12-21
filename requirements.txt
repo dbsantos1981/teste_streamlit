@@ -1,2 +1,3 @@
 streamlit
 spleeter
+typer>=0.4
