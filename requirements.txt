@@ -1,2 +1,2 @@
-spleeter
-typer
+spleeter==2.3.1
+streamlit==1.10.0
