@@ -1,4 +1,1 @@
-click<7.2.0
-typer
-spleeter
-streamlit==1.10.0
+spleeter==2.3.1
